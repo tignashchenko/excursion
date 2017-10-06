@@ -10,7 +10,24 @@ h1 {
   font-weight: normal;
 }
 
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
 a p {
   color: aquamarine;
   font-size: 16px;
+}
+
+p {
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+#copyright {
+  text-align: right;
 }
